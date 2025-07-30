@@ -1,6 +1,6 @@
 # Aviation-booking-python-tkinter
 
-#see the video for the working of the code 
+see the video for the working of the code 
 
 # Aviation Booking System
 
